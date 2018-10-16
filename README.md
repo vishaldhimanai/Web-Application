@@ -1,4 +1,4 @@
-# Web Application for AI
+# Web Application
 
 Requirement
 
